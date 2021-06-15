@@ -1,0 +1,10 @@
+
+[Sensor]
+Height = 1400.0
+ShiftX = 2.0
+Rotate = 180.0
+ProjectedSize = 1100.0
+Gap = 100
+MinSize = 20
+MaxSize = 30
+Skip = 5
